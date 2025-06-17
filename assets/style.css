@@ -15,5 +15,11 @@ body { font-family: Arial, sans-serif; line-height: 1.6; background: #f9f9f9; co
 h1 { font-size: 2rem; margin-bottom: 1rem; }
 h2 { font-size: 1.5rem; margin: 1.25rem 0 0.5rem; }
 
+/* Typography */
+p {
+    text-indent: 20px; /* Indents the first line of the paragraph by 20 pixels */
+}
+
+
 /* Footer */
 footer { text-align: center; padding: 1rem 0; background: #eaeaea; margin-top: 2rem; }
