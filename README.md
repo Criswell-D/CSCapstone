@@ -5,5 +5,5 @@ This is my artifact after I made my first enhancements.
 <a href="https://github.com/Criswell-D/Travlr_v1">https://github.com/Criswell-D/Travlr_v1 .</a>
 This is my artifact after I made my second enhancements. 
 <a href="https://github.com/Criswell-D/Travlr_v2">https://github.com/Criswell-D/Travlr_v2 .</a>
-This is my artifact after I made my thhird enhancements.  
+This is my artifact after I made my third enhancements.
 <a href="https://github.com/Criswell-D/Travlr_v3">https://github.com/Criswell-D/Travlr_v3 .</a>
